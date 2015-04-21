@@ -1,0 +1,7 @@
+NAME="Arquetype Linux"
+ID=arquetype
+PRETTY_NAME="Arquetype Linux"
+ANSI_COLOR="1;32"
+HOME_URL="http://www.arquetype.org/"
+SUPPORT_URL="http://www.arquetype.org/"
+BUG_REPORT_URL="http://www.arquetype.org/"
